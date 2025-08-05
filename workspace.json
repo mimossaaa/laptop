@@ -1,0 +1,361 @@
+{
+  "main": {
+    "id": "8de00a7cdc2a8feb",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb8a606024249653",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "03d621a57c897d8e",
+            "type": "leaf",
+            "state": {
+              "type": "beautitab-react-view",
+              "state": {},
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "8f0e4c8deec52425",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-07-27 15.08.27.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-07-27 15.08.27.excalidraw"
+            }
+          },
+          {
+            "id": "1457b3823e03e028",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily notes📆/2025-07-30.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-07-30"
+            }
+          },
+          {
+            "id": "cf7cedc1b9fe540b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily notes📆/2025-07-27.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-07-27"
+            }
+          },
+          {
+            "id": "3c7baaa263a3eb24",
+            "type": "leaf",
+            "state": {
+              "type": "beautitab-react-view",
+              "state": {},
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "dc56869aac77cc5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily notes📆/2025-07-30.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-07-30"
+            }
+          },
+          {
+            "id": "213604a44f89692b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Labroots Scholarship.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Labroots Scholarship"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ed8629097786c164",
+    "type": "split",
+    "children": [
+      {
+        "id": "75c2699dd8132414",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a8866bfea1aa0bc6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "46c26d5724c6290d",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          },
+          {
+            "id": "28c66c595beb826c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "byModifiedTime"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a58215fe2dc514b7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 289.5041847229004
+  },
+  "right": {
+    "id": "01ea35b374f546aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "dec76082ab630308",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02f6203d1e06ab08",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "GPB to BioE Major Change.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for GPB to BioE Major Change"
+            }
+          },
+          {
+            "id": "e775b47d9e6f8347",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "GPB to BioE Major Change.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from GPB to BioE Major Change"
+            }
+          },
+          {
+            "id": "a1aee120d3247b28",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6f1e6a2167c90a3f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "GPB to BioE Major Change.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of GPB to BioE Major Change"
+            }
+          },
+          {
+            "id": "d8f47cdbbd7567ab",
+            "type": "leaf",
+            "state": {
+              "type": "timer-view",
+              "state": {},
+              "icon": "timer",
+              "title": "Timer"
+            }
+          },
+          {
+            "id": "e341f586a50f01be",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
+            }
+          },
+          {
+            "id": "3a9749c611bdd53d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "5dc8501ac45bdf8f",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-gpt",
+              "state": {},
+              "icon": "lucide-disc",
+              "title": "gpt"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 282.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "canvas:Create new canvas": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "templates:Insert template": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "obsidian-day-planner:Open Timeline": false,
+      "obsidian-day-planner:Open Multi-Day View": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "canvas2document:C2D Step 1 - Convert Canvas to draft doc": false,
+      "canvas2document:C2D Step 2 - Make cleared document": false,
+      "pomodoro-timer:Toggle timer panel": false
+    }
+  },
+  "active": "213604a44f89692b",
+  "lastOpenFiles": [
+    "Daily notes📆/2025-07-30.md",
+    "Labroots Scholarship.md",
+    "Daily notes📆/2025-07-27.md",
+    "prompt header.md",
+    "work study description.md",
+    "Untitled 11.md",
+    "Excalidraw/Drawing 2025-07-29 21.22.45.excalidraw.md",
+    "Excalidraw/Drawing 2025-07-27 15.08.27.excalidraw.md",
+    "hands on ML with pytorch.md",
+    "Untitled 10.md",
+    "Berkeley work study resume.md",
+    "Majid Rebouh coc resume.md",
+    "Daily notes📆/2025-07-26.md",
+    "Chemical Principles 8th edition NOTES.md",
+    "Excalidraw/Drawing 2025-07-21 15.42.32.excalidraw.md",
+    "Excalidraw/Drawing 2025-07-18 18.45.12.excalidraw.md",
+    "Excalidraw/Drawing 2025-07-04 08.20.20.excalidraw.md",
+    "Excalidraw/Drawing 2025-06-14 20.18.12.excalidraw.md",
+    "new website requirements.md",
+    "Untitled 3.canvas",
+    "Pasted Image 20250718192522_492.png",
+    "Pasted Image 20250718184514_172.png",
+    "Pasted image 20250718173336.png",
+    "derivative rules.md",
+    "Calc2_Derivatives_CheatSheet.pdf",
+    "MISC/myfoin.md",
+    "Majid Rebouh Resume.md",
+    "Majid_Rebouh_labs_Resume.md",
+    "UC berkeley work study jobs to apply too.md",
+    "Daily notes📆/2025-07-17.md",
+    "GPB to BioE Major Change.md",
+    "Pasted Image 20250704082054_164.png",
+    "Pasted image 20250626083604.png",
+    "Pasted image 20250617225341.png",
+    "Pasted image 20250614211642.png",
+    "Pasted image 20250614204344.png",
+    "Pasted Image 20250614201814_066.png",
+    "Pasted image 20250614163838.png",
+    "Hands-On Machine Learning with Scikit-Learn, Keras, and -- Aurelien Geron [Géron, Aurélien] -- 2, 2019-10-15 -- O'Reilly Media, [2019 -- 9781492032618 -- 6620b24b33e7a7b13767fbb48aa97a79 -- Anna’s Archive.pdf",
+    "Machine Learning with PyTorch and Scikit-Learn _ Develop -- Sebastian Raschka, Yuxi (Hayden) Liu, Vahid Mirjalili, -- Packt Publishing, Birmingham, -- 9781801816380 -- 4aa93b5c64c88914912705d855b111b5 -- Anna’s Arc.pdf",
+    "camping may 25.2.canvas",
+    "camping may 25.canvas",
+    "Untitled 2.canvas",
+    "school work/Debating against democracy debate - canvas.canvas",
+    "Envi Sci Spring Practice Final 2025 - Google Docs.pdf",
+    "AAQ.Emotion - Google Docs.pdf",
+    "Language Primer.pdf",
+    "Unit 3 - Learning Targets and Vocab - Google Docs.pdf",
+    "Unit 5 Learning Goals and Key Terms - Google Docs.pdf",
+    "Unit 4 Learning Goals and Key Terms - Google Docs.pdf",
+    "818975-compact-robot-arm-arduino-3d-printed-1c35385e-a4b7-4c90-b835-a9554f76b979.pdf",
+    "MISC/Corea to do - canvas.canvas",
+    "commonapp essay alternative.canvas",
+    "COLLEGE APPS🏢/Roommate essay.canvas",
+    "COLLEGE APPS🏢/Untitled 2.canvas",
+    "COLLEGE APPS🏢/common app essay brainstorm.canvas"
+  ]
+}
